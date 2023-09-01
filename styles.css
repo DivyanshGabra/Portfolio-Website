@@ -54,6 +54,10 @@ nav ul li {
     width: 300px;
     border-radius: 5px;
 }
+.btn:hover{
+    background-color: #fff;
+    color: black;
+}
 
 /*                 Main                   */
 
